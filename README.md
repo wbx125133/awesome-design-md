@@ -1,3 +1,7 @@
+> **个人镜像说明**：本仓库是 [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) 的 fork，用于个人设计参考。下方保留上游说明与署名；更新、贡献和授权以对应上游文件为准。
+>
+> 中文工作流入口：[Codex 品牌风格 Skill](https://github.com/wbx125133/codex-skills/tree/main/design-md-brand-styles)。跨设备使用时，请将该 Skill 的 `references/library` 链接指向本机克隆的设计文档库。
+
 <a href="https://github.com/VoltAgent/voltagent">
      <img width="1500" height="801" alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
 </a>
